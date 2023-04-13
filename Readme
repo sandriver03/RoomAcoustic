@@ -1,0 +1,4 @@
+simulate the echo effect of rectangular rooms with source image method and generate corresponding HRIRs, which takes into account the HRTFs of the listener. This package is adapted from the corresponding Matlab codes.
+
+use the `echoHRTF` function in `echoHRTF.py` as the main function. example usage can also be seen in the same .py file.
+
